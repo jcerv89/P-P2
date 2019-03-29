@@ -1,0 +1,7 @@
+C:\Users\Justin Cervenec\source\repos\JustinCervenec_Excerise1\JustinCervenec_Excerise1\bin\Debug\JustinCervenec_Excerise1.exe.config
+C:\Users\Justin Cervenec\source\repos\JustinCervenec_Excerise1\JustinCervenec_Excerise1\bin\Debug\JustinCervenec_Excerise1.exe
+C:\Users\Justin Cervenec\source\repos\JustinCervenec_Excerise1\JustinCervenec_Excerise1\bin\Debug\JustinCervenec_Excerise1.pdb
+C:\Users\Justin Cervenec\source\repos\JustinCervenec_Excerise1\JustinCervenec_Excerise1\obj\Debug\JustinCervenec_Excerise1.csprojResolveAssemblyReference.cache
+C:\Users\Justin Cervenec\source\repos\JustinCervenec_Excerise1\JustinCervenec_Excerise1\obj\Debug\JustinCervenec_Excerise1.csproj.CoreCompileInputs.cache
+C:\Users\Justin Cervenec\source\repos\JustinCervenec_Excerise1\JustinCervenec_Excerise1\obj\Debug\JustinCervenec_Excerise1.exe
+C:\Users\Justin Cervenec\source\repos\JustinCervenec_Excerise1\JustinCervenec_Excerise1\obj\Debug\JustinCervenec_Excerise1.pdb
