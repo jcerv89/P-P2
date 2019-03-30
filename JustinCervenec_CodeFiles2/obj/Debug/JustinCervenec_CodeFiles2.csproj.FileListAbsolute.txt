@@ -1,0 +1,8 @@
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\bin\Debug\JustinCervenec_CodeFiles2.exe.config
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\bin\Debug\JustinCervenec_CodeFiles2.exe
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\bin\Debug\JustinCervenec_CodeFiles2.pdb
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\obj\Debug\JustinCervenec_CodeFiles2.csprojResolveAssemblyReference.cache
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\obj\Debug\JustinCervenec_CodeFiles2.csproj.CoreCompileInputs.cache
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\obj\Debug\JustinCervenec_CodeFiles2.exe
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\obj\Debug\JustinCervenec_CodeFiles2.pdb
+c:\users\justin cervenec\source\repos\JustinCervenec_CodeFiles2\JustinCervenec_CodeFiles2\bin\Debug\MySql.Data.dll
